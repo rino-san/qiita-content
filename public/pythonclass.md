@@ -1,10 +1,10 @@
 ---
-title: "Pythonクラス入門:学生時代の脳筋コードを卒業するための再学習メモ"
+title: 'Pythonクラス入門:学生時代の脳筋コードを卒業するための再学習メモ'
 tags:
-  - 'Python'
+  - Python
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-05-18T17:49:19+09:00'
+id: 9eec27efeb53334f9696
 organization_url_name: null
 slide: false
 ignorePublish: false
