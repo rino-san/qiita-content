@@ -7,7 +7,7 @@ updated_at: '2025-05-19T12:59:40+09:00'
 id: 741411d64e9dbec08276
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 # 背景
 本記事では、学生時代にクラス設計を深く考えずに脳筋コードばかり書いていた自分への反省を込めて、Pythonの「クラス」「継承」「オーバーライド」などの基本概念を整理します。
